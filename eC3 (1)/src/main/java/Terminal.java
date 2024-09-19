@@ -17,7 +17,7 @@ public class Terminal {
 
       switch (op) {
         case 0:
-          System.out.println("By Jc");
+          System.out.println("Tchau Tchau");
           sc.close();
           return;
 
